@@ -1,4 +1,4 @@
-
+Obsidian for macOS new Addon - reminders and dark mode is the best Obsidian for macOS addon, featuring reminders and dark mode. Safe, efficient, and optimized for macOS users.
 
 
 
